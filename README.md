@@ -316,7 +316,7 @@ p.note { display: none; }
 <a href="20260213_066.JPG" target="_blank"><img src="20260213_066.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">写真は星空全体で見ると、だいたいこの部分</span></h2>
-<a href="20260212_068.png" target="_blank"><img src="20260212_068.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260213_068.png" target="_blank"><img src="20260213_068.png" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">日本ではなかなか見られないので、カノープスは見えたら撮影</span></h2>
 <a href="20260213_067.JPG" target="_blank"><img src="20260213_067.JPG" alt="サンプル画像" class="responsive-media"></a>
